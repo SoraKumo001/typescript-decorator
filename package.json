@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "ts-node src"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0-beta"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  },
+  "name": "typescript-decorator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SoraKumo <info@croud.jp>",
+  "license": "MIT"
+}
